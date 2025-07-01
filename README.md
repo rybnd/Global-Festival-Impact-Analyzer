@@ -24,12 +24,6 @@ Analyze the economic and social impact of major Indian festivals using financial
 3. Explore and run notebooks in sequence under `/notebooks/`.
 4. Export analysis and visualizations for dashboards.
 
-## File Structure
-
-- `data/` – Contains raw and processed data.
-- `src/` – Python scripts for data processing and analysis.
-- `notebooks/` – Jupyter notebooks for each project phase.
-- `reports/` – Dashboards and report images.
 
 ## Credits
 - Indian Financial News dataset from Kaggle, by hkapoor.
